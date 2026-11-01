@@ -1,7 +1,7 @@
 # nvimrc
 
 Personal Neovim configuration. Install into `~/.config/nvim` after reviewing
-local differences, or use it as the `dotfiles/.config/nvim` submodule of
+local differences, or use it as the `dotfiles/config/nvim` submodule of
 [deskit](https://github.com/Desiment/deskit).
 
 Tracked sources: `init.lua` and `lazy-lock.json`. Local backup copies and
